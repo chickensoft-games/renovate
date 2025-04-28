@@ -25,6 +25,9 @@
       "matchPackageNames": ["GodotSharp{/,}**", "Godot.NET.Sdk{/,}**"]
     },
     {
+      "groupName": "Chickensoft",
+      "groupSlug": "chickensoft",
+      "separateMajorMinor": false,
       "matchPackageNames": ["Chickensoft{/,}**"],
       "allowedVersions": "/^(\\d+\\.\\d+\\.\\d+)(-godot(\\d+\\.)+\\d+(-.*)?)?$/"
     }
