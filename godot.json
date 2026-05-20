@@ -22,6 +22,10 @@
       "enabled": false
     },
     {
+      "matchPackageNames": ["CliFx"],
+      "allowedVersions": "<3.0.0"
+    },
+    {
       "matchPackageNames": ["GodotSharp{/,}**", "Godot.NET.Sdk{/,}**"]
     },
     {
