@@ -22,6 +22,14 @@
       "enabled": false
     },
     {
+      "matchPackageNames": ["Microsoft.CodeAnalysis.Analyzers"],
+      "allowedVersions": "<4.15.0"
+    },
+    {
+      "matchPackageNames": ["Microsoft.CodeAnalysis.Common"],
+      "allowedVersions": "<4.12.0"
+    },
+    {
       "matchPackageNames": ["CliFx"],
       "allowedVersions": "<3.0.0"
     },
